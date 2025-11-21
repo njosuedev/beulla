@@ -1,1 +1,1 @@
-<h1>Shop</h1>
+<h1>E-Shop</h1>
